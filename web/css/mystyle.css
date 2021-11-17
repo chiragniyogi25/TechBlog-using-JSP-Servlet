@@ -1,0 +1,64 @@
+.primary-background{
+    background-color: #8F00FF!important;
+}
+.text_colour{
+    color:white!important;
+}
+.secondary-background{
+    background-color:#cd9df2!important;
+}
+.border-button-color{
+    color:#8F00FF;
+    border-color:#8F00FF;
+}
+
+.list-group-item.active {
+    background-color: #8F00FF;
+    border-color: #8F00FF;
+}
+.color-for-pagination-btn{
+    background-color: #F4E6FF;
+}
+.font_pagination{
+    color:#6f42c1;
+}
+.comment_img,.rep_comment_img{
+    width:2em; height:2em;
+    border-radius: 50%;
+    overflow: hidden; 
+    float: left;
+}
+#commentsample{
+    float: right;    
+}
+.comments{
+    display:flex;
+}
+.comment_btn{
+    display:none;
+}
+.com_date {
+    float: right;
+}
+.rep_date{
+   left:500px;
+}
+.rep_body{
+    position:relative;
+    left:42px;
+}
+
+.com_name,.rep_name {
+    display: inline;
+}
+
+.com_body,.reply_button{
+    position:relative;
+    left:42px; top:2px; 
+}
+.show_replies{
+    position:relative;
+    left:80px; top:2px;    
+}
+
+
