@@ -1,5 +1,5 @@
 # TechBlog-using-JSP-Servlet
-A Website where developers can share their programming knowledge to the world
+A Website where developers can share their programming knowledge to other developers
 
 # Modules
 1. Registration Module
